@@ -53,7 +53,7 @@ jupyter-core==4.4.0
 kiteconnect==3.7.6
 kiwisolver==1.0.1
 kombu==4.2.2.post1
-lxml==4.5.0
+lxml==4.6.2
 macholib==1.9
 MarkupSafe==1.1.1
 matplotlib==2.2.2
